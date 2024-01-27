@@ -1,7 +1,7 @@
 # 👨🏾‍💻 About Me:
 👋🏽 Hello, I'm Gerard and I'm an pilomathic software developer. 
 
-- Explore my [Instagram](https://www.instagram.com/codeslingerg) where I share my journey in development and what I've learned along the way.
+- Stay tuned to my [Instagram](https://www.instagram.com/codeslingerg) where I share my journey in development and what I've learned along the way.
 
 ## 💻 Tech Stack::
 **Frontend Development:** `HTML` `Javascript` `CSS` `React` `Bootstrap` `Markdown`
